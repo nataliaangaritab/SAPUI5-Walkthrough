@@ -1,7 +1,6 @@
 {
   "name": "SAPUI5Walkthrough",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
@@ -10,5 +9,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliaangaritab/SAPUI5Walkthrough.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nataliaangaritab/SAPUI5Walkthrough/issues"
+  },
+  "homepage": "https://github.com/nataliaangaritab/SAPUI5Walkthrough#readme",
+  "description": ""
 }
